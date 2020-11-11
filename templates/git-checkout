@@ -1,0 +1,4 @@
+1. Alice writes index.html at t1
+2. Bob writes index.html at t2 on different branch
+3. Casey checks out Alice's branch and builds bindata.go
+4. Casey checks out Bob's branch.
